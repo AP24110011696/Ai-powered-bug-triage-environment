@@ -1,0 +1,13 @@
+[project]
+name = "bug-triage-env"
+version = "1.0.0"
+description = "Bug triage environment"
+authors = [{ name = "Mohan Namburu" }]
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
