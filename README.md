@@ -294,11 +294,6 @@ ai-bug-triage-env/
 
 ---
 
-## 🎨 Screenshots
-
-<!-- Add your screenshots here -->
-*Coming soon...*
-
 ---
 
 ## ✅ OpenEnv Compliance
@@ -320,17 +315,12 @@ This environment fully implements the [OpenEnv specification](https://github.com
 
 Built for the **AgentBeats × OpenEnv Challenge** (Meta PyTorch Hackathon)
 
-- **Team Lead:** Likhitha Sankula
 - **Live Demo:** [HuggingFace Spaces](https://mohannamburu-ai-bug-triage-env.hf.space)
 - **Submission Deadline:** April 8, 2026
 
 ---
 
-## 🤝 Contributing
 
-Contributions welcome! Please feel free to submit a Pull Request.
-
----
 
 ## 📄 License
 
